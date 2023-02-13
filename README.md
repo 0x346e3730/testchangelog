@@ -3,3 +3,5 @@
 ## Testing changelog
 
 v0.0.2
+
+New line, new content
