@@ -2,4 +2,4 @@
 
 ## Testing changelog
 
-New line, new content, still more content
+New line, new content, still more and more content
