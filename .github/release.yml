@@ -1,0 +1,19 @@
+changelog:
+  exclude:
+    labels:
+      - ignore-for-release
+    authors:
+      - octocat
+  categories:
+    - title: Breaking Changes 🛠
+      labels:
+        - "BC Break"
+    - title: New Features 🎉
+      labels:
+        - Feature
+    - title: Bugs 🪲
+      labels:
+        - Bug
+    - title: Other Changes
+      labels:
+        - "*"
